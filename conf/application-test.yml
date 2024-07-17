@@ -1,0 +1,9 @@
+#2024-07-16 16:35:15
+test:
+ list: value1,value2
+ key1: value1
+ key2: value2
+ user: ppp
+ child:
+  name: www
+  age: 10

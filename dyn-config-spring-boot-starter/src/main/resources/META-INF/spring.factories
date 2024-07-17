@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.somethingaw.dynconfigspringbootstarter.controller.ConfigController,\
+  com.github.somethingaw.dynconfigspringbootstarter.service.impl.ConfigService
